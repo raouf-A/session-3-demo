@@ -1,1 +1,2 @@
 This file also created in branch2
+another update in the new file in branch2

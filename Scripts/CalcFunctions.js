@@ -1,4 +1,4 @@
-﻿function sum() {
+﻿function newFunction() {
     var num1 = document.getElementById('firstNumber').value;
     var num2 = document.getElementById('secondNumber').value;
     if (isNaN(num1) || isNaN(num2) || (num1 == "") || (num2 == "")) {
